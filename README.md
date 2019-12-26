@@ -1,7 +1,9 @@
 # User-Authentication
-The goal of this project is to build a program that will help for user authentication validation. Database for this project is saved in MySQL.
+• The goal of this project was to build a program that will help for user authentication validation. 
 
-This is a resuasable plug and play program that would help create user authentication in any project with minimal tweaks.
+• The database used for this project was MySQL.
+
+• It is a reusable plug and play program that would help create user authentication in any project with minimal tweaks.
 
 # Technologies/Libraries used:
 • Java Servlets
